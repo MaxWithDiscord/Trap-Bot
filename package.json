@@ -1,0 +1,12 @@
+{
+  "name": "TrapBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TrapBot.js",
+  "scripts": {
+    "test": "node TrapBot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
